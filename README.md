@@ -3,7 +3,7 @@
 Launch a browser on localhost:8501
 ```bash
 git pull https://github.com/manelreghima/Landex.git
-pip install -r requiments.txt
+pip install -r requirements.txt
 streamlit run Home.py
 ```
 ## AWS Deployment Instructions
